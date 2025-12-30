@@ -1,3 +1,14 @@
+# TimeNIC
+
+![2025-04-16T21_46_24 679Z-thumbnail_IMG_2678](https://github.com/user-attachments/assets/13899fbc-b3f6-4bf6-a48b-767c3f78efa5)
+
+
+The TimeNIC PCIe card is designed to bring precision timing and advanced network functionality to any platform with a PCIe slot. A small form factor PCIe NIC, the TimeNIC integrates a high-performance I226 Ethernet NIC with precise timing inputs and outputs via SMA connectors. It’s a powerful tool for building small form-factor PTP (Precision Time Protocol) clients or even grandmasters, ideal for time-sensitive networking applications.
+
+## Order
+
+Order from Tindie: https://www.tindie.com/products/timeappliances/timenic-i226-pcie-nic-with-pps-inout-and-tcxo/
+
 # Intel I225 PPS Input Patch (DKMS-based igc driver replacement)
 
 This guide shows how to install a patched version of the `igc` driver (used by Intel I225/I226 NICs) to support PPS input. It uses DKMS for rebuilds and ensures the custom driver loads at boot on Ubuntu 24.04.
