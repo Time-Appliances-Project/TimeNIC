@@ -36,7 +36,7 @@ sudo cp testptp /usr/bin/
 1. **Copy the zip to your machine and unzip it:**
 
 ```bash
-wget https://github.com/Time-Appliances-Project/Products/raw/refs/heads/main/TimeNIC/intel-igc-ppsfix_ubuntu.zip
+wget https://github.com/Time-Appliances-Project/TimeNIC/raw/refs/heads/main/intel-igc-ppsfix_ubuntu.zip
 unzip intel-igc-ppsfix_ubuntu.zip
 cd intel-igc-ppsfix
 ```
